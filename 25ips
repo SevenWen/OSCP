@@ -1,0 +1,16 @@
+# Nmap 7.60 scan initiated Sat Feb 10 21:57:08 2018 as: nmap -p 25 -sT --open --oG 25ips 10.11.1.0/24
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.72 ()	Status: Up
+Host: 10.11.1.72 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.115 ()	Status: Up
+Host: 10.11.1.115 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.217 ()	Status: Up
+Host: 10.11.1.217 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 25/open/tcp//smtp///
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 25/open/tcp//smtp///
+# Nmap done at Sat Feb 10 21:57:16 2018 -- 256 IP addresses (44 hosts up) scanned in 7.98 seconds

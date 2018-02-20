@@ -1,0 +1,168 @@
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:10 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.5
+Host: 10.11.1.5 ()	Status: Up
+Host: 10.11.1.5 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows XP microsoft-ds/
+# Nmap done at Tue Feb  6 15:18:17 2018 -- 1 IP address (1 host up) scanned in 7.06 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:17 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.7
+Host: 10.11.1.7 ()	Status: Up
+Host: 10.11.1.7 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:18:19 2018 -- 1 IP address (1 host up) scanned in 2.17 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:19 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.8
+Host: 10.11.1.8 ()	Status: Up
+Host: 10.11.1.8 ()	Ports: 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: MYGROUP)/, 445/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: MYGROUP)/
+# Nmap done at Tue Feb  6 15:18:31 2018 -- 1 IP address (1 host up) scanned in 12.06 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:32 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.10
+Host: 10.11.1.10 ()	Status: Up
+Host: 10.11.1.10 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:18:34 2018 -- 1 IP address (1 host up) scanned in 2.10 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:34 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.13
+Host: 10.11.1.13 ()	Status: Up
+Host: 10.11.1.13 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:18:36 2018 -- 1 IP address (1 host up) scanned in 2.41 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:36 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.14
+Host: 10.11.1.14 ()	Status: Up
+Host: 10.11.1.14 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:18:39 2018 -- 1 IP address (1 host up) scanned in 3.11 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:39 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.22
+Host: 10.11.1.22 ()	Status: Up
+Host: 10.11.1.22 ()	Ports: 139/open/tcp//netbios-ssn//Samba smbd (workgroup: MYGROUP)/, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:18:46 2018 -- 1 IP address (1 host up) scanned in 7.11 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:46 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.24
+Host: 10.11.1.24 ()	Status: Up
+Host: 10.11.1.24 ()	Ports: 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: MSHOME)/, 445/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: MSHOME)/
+# Nmap done at Tue Feb  6 15:18:58 2018 -- 1 IP address (1 host up) scanned in 12.07 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:18:59 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.31
+Host: 10.11.1.31 ()	Status: Up
+Host: 10.11.1.31 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 2003 or 2008 microsoft-ds/
+# Nmap done at Tue Feb  6 15:19:06 2018 -- 1 IP address (1 host up) scanned in 7.09 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:06 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.35
+Host: 10.11.1.35 ()	Status: Up
+Host: 10.11.1.35 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:07 2018 -- 1 IP address (1 host up) scanned in 0.91 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:07 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.39
+Host: 10.11.1.39 ()	Status: Up
+Host: 10.11.1.39 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:07 2018 -- 1 IP address (1 host up) scanned in 0.88 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:08 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.44
+Host: 10.11.1.44 ()	Status: Up
+Host: 10.11.1.44 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:08 2018 -- 1 IP address (1 host up) scanned in 0.92 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:08 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.49
+Host: 10.11.1.49 ()	Status: Up
+Host: 10.11.1.49 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:17 2018 -- 1 IP address (1 host up) scanned in 8.31 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:17 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.50
+Host: 10.11.1.50 ()	Status: Up
+Host: 10.11.1.50 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:25 2018 -- 1 IP address (1 host up) scanned in 8.33 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:25 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.71
+Host: 10.11.1.71 ()	Status: Up
+Host: 10.11.1.71 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:26 2018 -- 1 IP address (1 host up) scanned in 0.86 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:26 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.72
+Host: 10.11.1.72 ()	Status: Up
+Host: 10.11.1.72 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:27 2018 -- 1 IP address (1 host up) scanned in 0.85 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:27 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.73
+Host: 10.11.1.73 ()	Status: Up
+Host: 10.11.1.73 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 7 - 10 microsoft-ds (workgroup: WORKGROUP)/
+# Nmap done at Tue Feb  6 15:19:35 2018 -- 1 IP address (1 host up) scanned in 8.26 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:35 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.115
+Host: 10.11.1.115 ()	Status: Up
+Host: 10.11.1.115 ()	Ports: 139/open/tcp//netbios-ssn//Samba smbd (workgroup: 7MYGROUP)/, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:47 2018 -- 1 IP address (1 host up) scanned in 12.02 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:47 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.116
+Host: 10.11.1.116 ()	Status: Up
+Host: 10.11.1.116 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:48 2018 -- 1 IP address (1 host up) scanned in 0.86 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:48 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.125
+Host: 10.11.1.125 ()	Status: Up
+Host: 10.11.1.125 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:50 2018 -- 1 IP address (1 host up) scanned in 2.10 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:50 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.128
+Host: 10.11.1.128 ()	Status: Up
+Host: 10.11.1.128 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 2000 microsoft-ds/
+# Nmap done at Tue Feb  6 15:19:57 2018 -- 1 IP address (1 host up) scanned in 7.05 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:57 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.133
+Host: 10.11.1.133 ()	Status: Up
+Host: 10.11.1.133 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:19:58 2018 -- 1 IP address (1 host up) scanned in 0.87 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:19:58 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.136
+Host: 10.11.1.136 ()	Status: Up
+Host: 10.11.1.136 ()	Ports: 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: LOCAL)/, 445/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: LOCAL)/
+# Nmap done at Tue Feb  6 15:20:10 2018 -- 1 IP address (1 host up) scanned in 12.02 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:10 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.141
+Host: 10.11.1.141 ()	Status: Up
+Host: 10.11.1.141 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:11 2018 -- 1 IP address (1 host up) scanned in 0.85 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:11 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.145
+Host: 10.11.1.145 ()	Status: Up
+Host: 10.11.1.145 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows Server 2008 R2 microsoft-ds (workgroup: WORKGROUP)/
+# Nmap done at Tue Feb  6 15:20:19 2018 -- 1 IP address (1 host up) scanned in 8.28 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:20 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.146
+Host: 10.11.1.146 ()	Status: Up
+Host: 10.11.1.146 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:20 2018 -- 1 IP address (1 host up) scanned in 0.88 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:20 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.202
+Host: 10.11.1.202 ()	Status: Up
+Host: 10.11.1.202 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 2000 microsoft-ds/
+# Nmap done at Tue Feb  6 15:20:27 2018 -- 1 IP address (1 host up) scanned in 7.04 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:27 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.209
+Host: 10.11.1.209 ()	Status: Up
+Host: 10.11.1.209 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:28 2018 -- 1 IP address (1 host up) scanned in 0.88 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:28 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.217
+Host: 10.11.1.217 ()	Status: Up
+Host: 10.11.1.217 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:29 2018 -- 1 IP address (1 host up) scanned in 0.86 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:29 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.219
+Host: 10.11.1.219 ()	Status: Up
+Host: 10.11.1.219 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:31 2018 -- 1 IP address (1 host up) scanned in 2.19 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:31 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.220
+Host: 10.11.1.220 ()	Status: Up
+Host: 10.11.1.220 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows Server 2008 R2 - 2012 microsoft-ds (workgroup: THINC)/
+# Nmap done at Tue Feb  6 15:20:40 2018 -- 1 IP address (1 host up) scanned in 8.25 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:40 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.221
+Host: 10.11.1.221 ()	Status: Up
+Host: 10.11.1.221 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:42 2018 -- 1 IP address (1 host up) scanned in 2.12 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:42 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.223
+Host: 10.11.1.223 ()	Status: Up
+Host: 10.11.1.223 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows Server 2008 R2 microsoft-ds (workgroup: WORKGROUP)/
+# Nmap done at Tue Feb  6 15:20:50 2018 -- 1 IP address (1 host up) scanned in 8.28 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:50 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.226
+Host: 10.11.1.226 ()	Status: Up
+Host: 10.11.1.226 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:20:52 2018 -- 1 IP address (1 host up) scanned in 2.11 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:52 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.227
+Host: 10.11.1.227 ()	Status: Up
+Host: 10.11.1.227 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/open/tcp//microsoft-ds//Microsoft Windows 2000 microsoft-ds/
+# Nmap done at Tue Feb  6 15:20:59 2018 -- 1 IP address (1 host up) scanned in 7.07 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:20:59 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.229
+Host: 10.11.1.229 ()	Status: Up
+Host: 10.11.1.229 ()	Ports: 139/open/tcp//netbios-ssn//Microsoft Windows netbios-ssn/, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:08 2018 -- 1 IP address (1 host up) scanned in 8.25 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:08 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.234
+Host: 10.11.1.234 ()	Status: Up
+Host: 10.11.1.234 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:09 2018 -- 1 IP address (1 host up) scanned in 0.86 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:09 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.237
+Host: 10.11.1.237 ()	Status: Up
+Host: 10.11.1.237 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:10 2018 -- 1 IP address (1 host up) scanned in 0.91 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:10 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.238
+Host: 10.11.1.238 ()	Status: Up
+Host: 10.11.1.238 ()	Ports: 139/closed/tcp//netbios-ssn///, 445/closed/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:10 2018 -- 1 IP address (1 host up) scanned in 0.88 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:11 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.247
+Host: 10.11.1.247 ()	Status: Up
+Host: 10.11.1.247 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:13 2018 -- 1 IP address (1 host up) scanned in 2.08 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:13 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.251
+Host: 10.11.1.251 ()	Status: Up
+Host: 10.11.1.251 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:15 2018 -- 1 IP address (1 host up) scanned in 2.09 seconds
+# Nmap 7.60 scan initiated Tue Feb  6 15:21:15 2018 as: nmap -p 445,139 -sV -oG webserver.txt --append-output 10.11.1.252
+Host: 10.11.1.252 ()	Status: Up
+Host: 10.11.1.252 ()	Ports: 139/filtered/tcp//netbios-ssn///, 445/filtered/tcp//microsoft-ds///
+# Nmap done at Tue Feb  6 15:21:17 2018 -- 1 IP address (1 host up) scanned in 2.10 seconds
